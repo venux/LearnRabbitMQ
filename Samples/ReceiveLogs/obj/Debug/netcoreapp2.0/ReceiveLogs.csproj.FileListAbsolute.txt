@@ -1,0 +1,10 @@
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.deps.json
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.runtimeconfig.json
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.runtimeconfig.dev.json
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.dll
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.AssemblyInfoInputs.cache
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.AssemblyInfo.cs
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.pdb
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.dll
+E:\04代码\LearnRabbitMQ\Samples\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.pdb

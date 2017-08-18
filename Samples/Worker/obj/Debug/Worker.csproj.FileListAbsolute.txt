@@ -1,0 +1,11 @@
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\Worker.exe.config
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\Worker.exe
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\Worker.pdb
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\RabbitMQ.Client.dll
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\04代码\LearnRabbitMQ\Samples\Worker\bin\Debug\RabbitMQ.Client.xml
+E:\04代码\LearnRabbitMQ\Samples\Worker\obj\Debug\Worker.exe
+E:\04代码\LearnRabbitMQ\Samples\Worker\obj\Debug\Worker.pdb
+E:\04代码\LearnRabbitMQ\Samples\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+E:\04代码\LearnRabbitMQ\Samples\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
