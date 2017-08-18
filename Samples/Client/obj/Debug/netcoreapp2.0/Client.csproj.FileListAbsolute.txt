@@ -1,0 +1,10 @@
+E:\04代码\LearnRabbitMQ\Samples\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+E:\04代码\LearnRabbitMQ\Samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+E:\04代码\LearnRabbitMQ\Samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+E:\04代码\LearnRabbitMQ\Samples\Client\bin\Debug\netcoreapp2.0\Client.dll
+E:\04代码\LearnRabbitMQ\Samples\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+E:\04代码\LearnRabbitMQ\Samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+E:\04代码\LearnRabbitMQ\Samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+E:\04代码\LearnRabbitMQ\Samples\Client\bin\Debug\netcoreapp2.0\Client.pdb
+E:\04代码\LearnRabbitMQ\Samples\Client\obj\Debug\netcoreapp2.0\Client.dll
+E:\04代码\LearnRabbitMQ\Samples\Client\obj\Debug\netcoreapp2.0\Client.pdb

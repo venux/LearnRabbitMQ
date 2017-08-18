@@ -8,4 +8,3 @@ E:\04代码\LearnRabbitMQ\Samples\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.Assemb
 E:\04代码\LearnRabbitMQ\Samples\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.pdb
 E:\04代码\LearnRabbitMQ\Samples\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.dll
 E:\04代码\LearnRabbitMQ\Samples\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.pdb
-E:\04代码\LearnRabbitMQ\Samples\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.csprojResolveAssemblyReference.cache

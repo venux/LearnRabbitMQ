@@ -11,7 +11,7 @@
 ![queue](https://www.rabbitmq.com/img/tutorials/queue.png)
 ### 3. 消费者（consumer）
 ![consumer](https://www.rabbitmq.com/img/tutorials/consumer.png)
-### 4. 交换者（exchange）
+### 4. 交换机（exchange）
 ![exchange](https://www.rabbitmq.com/img/tutorials/exchanges.png)
 ### 4. 工作/任务队列（work/task queue）
 ### 5. 工作者（worker）
@@ -60,7 +60,7 @@ properties.SetPersistent(true);
 channel.BasicQos(0, 1, false); 
 ```
 
-## 插件
+## [插件](https://www.rabbitmq.com/management.html)
 `rabbitmq-plugins enable rabbitmq_management`
 ### 管理界面
 [地址](http://localhost:15672/)
@@ -81,6 +81,12 @@ channel.BasicQos(0, 1, false);
     
         ![direct](https://www.rabbitmq.com/img/tutorials/direct-exchange.png)
     - topic
+
+        `* `(star) can substitute for exactly one word.
+
+        `#` (hash) can substitute for zero or more words.
+        
+        ![topic](https://www.rabbitmq.com/img/tutorials/python-five.png)
     - headers
     - fanout
 

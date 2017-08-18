@@ -16,3 +16,5 @@ Receiving messages based on a pattern (topics)
 # 6 RPC
 
 Request/reply pattern example
+
+![RPC](https://www.rabbitmq.com/img/tutorials/python-six.png)

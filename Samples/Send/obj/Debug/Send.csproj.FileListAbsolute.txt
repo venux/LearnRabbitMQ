@@ -7,5 +7,4 @@ E:\04代码\LearnRabbitMQ\Samples\Send\bin\Debug\Microsoft.Diagnostics.Tracing.E
 E:\04代码\LearnRabbitMQ\Samples\Send\bin\Debug\RabbitMQ.Client.xml
 E:\04代码\LearnRabbitMQ\Samples\Send\obj\Debug\Send.exe
 E:\04代码\LearnRabbitMQ\Samples\Send\obj\Debug\Send.pdb
-E:\04代码\LearnRabbitMQ\Samples\Send\obj\Debug\Send.csprojResolveAssemblyReference.cache
 E:\04代码\LearnRabbitMQ\Samples\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
